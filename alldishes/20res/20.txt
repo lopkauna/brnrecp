@@ -1,0 +1,1 @@
+{ "dishid": 20, "dishname": ["Соус BBQ"], "dishcategory": 10, "dishtabl": ["Соус Барбекю п/ф", "0,040", "0,040", "0,040"], "dishrecept": "", "dishimages": [] }

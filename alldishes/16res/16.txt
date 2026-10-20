@@ -1,0 +1,1 @@
+{ "dishid": 16, "dishname": ["Соус Сладкий чили"], "dishcategory": 10, "dishtabl": ["Соус ЧИЛИ СЛАДКИЙ п/ф", "0,050", "0,050", "0,050"], "dishrecept": "", "dishimages": [] }
