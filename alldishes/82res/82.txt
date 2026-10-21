@@ -1,0 +1,1 @@
+{ "dishid": 82, "dishname": ["Жареный бекон к пиву"], "dishcategory": 4, "dishtabl": ["Бекон жареный п/ф", "0,050", "0,050", "0,050"], "dishrecept": "", "dishimages": [] }
